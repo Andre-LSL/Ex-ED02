@@ -13,4 +13,8 @@ public class Metodos {
 		}
 		return vetorPar(vetor, tamanho-1, qtd);
 	}
+    public char[] calcular(double valor, double resultado) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'calcular'");
+    }
 }
